@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><Response><Msg></Msg><Error><Status>1</Status></Error><FunctionName>CityList</FunctionName><Data><City name="ShangHai" value="aaa"><CityTag>s</CityTag><IsCurrent>0</IsCurrent><CityName>上海</CityName><CityCode>SHA</CityCode></City></Data></Response>
